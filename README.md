@@ -10,6 +10,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +46,5 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
