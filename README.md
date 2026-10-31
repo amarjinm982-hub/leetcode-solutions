@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
