@@ -11,6 +11,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
@@ -53,6 +54,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
