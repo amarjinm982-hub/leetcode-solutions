@@ -13,6 +13,7 @@
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
@@ -57,6 +58,7 @@
 | [1108-defanging-an-ip-address](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
