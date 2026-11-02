@@ -57,4 +57,5 @@
 | [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 <!---LeetCode Topics End-->
