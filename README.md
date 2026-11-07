@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1837-sum-of-digits-in-base-k](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 ## Counting
 |  |
 | ------- |
