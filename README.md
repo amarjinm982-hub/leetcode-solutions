@@ -47,6 +47,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1108-defanging-an-ip-address](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1859-sorting-the-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
