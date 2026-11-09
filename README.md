@@ -17,6 +17,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
@@ -38,6 +39,7 @@
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Counting
 |  |
 | ------- |
