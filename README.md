@@ -19,6 +19,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
