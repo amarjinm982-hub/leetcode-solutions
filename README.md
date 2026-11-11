@@ -42,6 +42,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bubble Sort
 |  |
 | ------- |
