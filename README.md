@@ -18,6 +18,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
