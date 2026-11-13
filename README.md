@@ -21,6 +21,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
@@ -103,4 +104,28 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
