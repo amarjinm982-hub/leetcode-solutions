@@ -17,6 +17,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -84,6 +85,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
