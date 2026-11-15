@@ -11,6 +11,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -44,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1837-sum-of-digits-in-base-k](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -103,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
