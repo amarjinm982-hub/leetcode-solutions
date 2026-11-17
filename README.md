@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -56,6 +57,7 @@
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
