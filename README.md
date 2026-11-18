@@ -94,6 +94,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
