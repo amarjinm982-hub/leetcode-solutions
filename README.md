@@ -54,6 +54,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3360-stone-removal-game](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
@@ -119,6 +120,7 @@
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Stack
 |  |
 | ------- |
