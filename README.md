@@ -26,6 +26,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [2652-sum-multiples](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3360-stone-removal-game](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3360-stone-removal-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/amarjinm982-hub/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
